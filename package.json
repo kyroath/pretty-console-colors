@@ -3,7 +3,6 @@
   "version": "2.0.0",
   "description": "🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.",
   "main": "./src/index.js",
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoseJPR/pretty-console-colors.git"
